@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "pwa": "pwa-wir-test",
+    "default": "pwa-wir-test"
+  }
+}
